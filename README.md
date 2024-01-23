@@ -26,7 +26,8 @@ To run this project, you need the following dependencies:
 You can install the required libraries using the following command:
 
 ```bash
-pip install opencv-python easyocr numpy
+!pip install easyocr
+!pip install imutils
 ```
 
 ## Installation
